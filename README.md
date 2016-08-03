@@ -9,10 +9,11 @@ TBD // npm
 
 Invoke the script using available accessors
 
-    :::javascript
-        > var randomEarthview = earthview.getRandom();
-        > randomEarthview.image
-        'https://www.gstatic.com/prettyearth/assets/full/1004.jpg'
+```
+> var randomEarthview = earthview.getRandom();
+> randomEarthview.image
+'https://www.gstatic.com/prettyearth/assets/full/1004.jpg'
+```
 
 
 ## Credits
